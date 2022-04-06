@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "violtech452022",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\desai\\Downloads\\tier_0_529\\tier_0_529\\amplify\\backend\\api\\violtech452022\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}

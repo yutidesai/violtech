@@ -1,0 +1,24 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-violtech452022-dev-161222-authRole",
+      "UnauthRoleArn": "arn:aws:iam::346379012496:role/amplify-violtech452022-dev-161222-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::346379012496:role/amplify-violtech452022-dev-161222-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-violtech452022-dev-161222-deployment",
+      "UnauthRoleName": "amplify-violtech452022-dev-161222-unauthRole",
+      "StackName": "amplify-violtech452022-dev-161222",
+      "StackId": "arn:aws:cloudformation:us-east-2:346379012496:stack/amplify-violtech452022-dev-161222/17fd14c0-b4cd-11ec-a3e5-0622151791d8",
+      "AmplifyAppId": "d2cg4smwju3ec6"
+    },
+    "categories": {
+      "function": {
+        "violtech452022f450cde3": {
+          "sesEmail": "hello@viol.tech",
+          "deploymentBucketName": "amplify-violtech452022-dev-161222-deployment",
+          "s3Key": "amplify-builds/violtech452022f450cde3-324130415a6861324b6e-build.zip"
+        }
+      }
+    }
+  }
+}
